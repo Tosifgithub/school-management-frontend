@@ -231,6 +231,6 @@ function ViewStudents() {
       )}
     </div>
   );
-}
+} 
 
 export default ViewStudents; 
